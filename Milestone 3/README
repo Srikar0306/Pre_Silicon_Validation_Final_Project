@@ -1,0 +1,6 @@
+Goals to be Achieved for Milestone 3 :
+
+a. Finalized any changes in RTL for any updated needed.
+b. Complete the class-based verification. All components must be defined and working (Transaction, Generator, Driver, Monitors, Scoreboard and Coverage).
+c. Include both code-coverage and functional coverage reports.
+d. Update Verification Plan with more detailed test cases if any more added.
